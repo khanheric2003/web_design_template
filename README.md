@@ -1,4 +1,4 @@
------------------------------------Website still under construction-----------------------------------
+---------------------------------------Website still under construction---------------------------------------
 Instruction to use:
 - click on the main.html
 	+ if clicked on kmpg > redirect to kmpg main page
